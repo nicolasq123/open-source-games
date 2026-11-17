@@ -2,6 +2,8 @@
 
 This is a list of different open-source video games and commercial video games open-source remakes.
 
+The repository includes the [my-skill-open-games Codex skill](.agents/skills/my-skill-open-games/SKILL.md). See its [GitHub additions](.agents/skills/my-skill-open-games/references/github-games.md) for star counts, languages, and source licenses.
+
 ## Table of contents
 
 - [Action games](#action-games)
@@ -25,17 +27,35 @@ This is a list of different open-source video games and commercial video games o
 
 ## Action games
 
+- **C-Dogs SDL** - A top-down shooter with cooperative campaigns and competitive modes. [[source]](https://github.com/cxong/cdogs-sdl)
+
 - **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
+
+- **KickPunch** - A retro side-scrolling beat 'em up with three levels. [[source]](https://github.com/kenamick/game-off-2017)
+
+- **Mr.Boom** - A Bomberman-style game for up to eight players with Libretro netplay. [[source]](https://github.com/Javanaise/mrboom-libretro)
+
+- **OpenSoldat** - A side-view multiplayer shooter with separately downloadable game assets. [[source]](https://github.com/opensoldat/opensoldat)
+
+- **Teeworlds** - A fast 2D multiplayer shooter built around grappling hooks and movement. [[source]](https://github.com/teeworlds/teeworlds)
+
+- **Voxel Musou** - A browser-based voxel action game where warriors fight through a series of stages. [[source]](https://github.com/mike007jd/voxel-musou)
 
 ## Adventure games
 
+- **A Dark Room** - A minimalist text adventure that starts with a fire and grows into resource gathering, village management, and exploration. [[source]](https://github.com/doublespeakgames/adarkroom)
+
 - **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - A zombie adventure, escape room, with twists. [[source]](https://github.com/larpon/DeadAscend)
+
+- **EmptyEpsilon** - A cooperative spaceship bridge simulator where players take different stations and complete missions together. [[source]](https://github.com/daid/EmptyEpsilon)
 
 - **[Endless Sky](https://endless-sky.github.io)** - Space exploration, trading, and combat game. [[source]](https://github.com/endless-sky/endless-sky)
 
 - **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [[source]](https://github.com/pioneerspacesim/pioneer)
 
 - **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
+
+- **Space Nerds in Space** - A multiplayer spaceship simulator with separate navigation, engineering, science, and weapons stations. [[source]](https://github.com/smcameron/space-nerds-in-space)
 
 - **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile *[Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)* into human-readable and modifiable source code. [[source]](https://github.com/zeldaret/tp)
 
@@ -53,6 +73,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon *[Transport Tycoon Deluxe](https://en.wikipedia.org/wiki/Transport_Tycoon)*. [[source]](https://github.com/OpenTTD/OpenTTD)
 
+- **Simutrans** - A simulation game about building and managing transport networks. A graphics pack is required. [[source]](https://github.com/simutrans/simutrans)
+
 ## City-Building games
 
 - **[Akhenaten](https://dalerank.itch.io/akhenaten)** - A strategic city-building game, based on assets and gameplay mechanics from *[Pharaoh + Cleopatra](https://en.wikipedia.org/wiki/Pharaoh_(video_game))* title, where players take on the role of a ruler and mayor of ancient Egyptian civilization. [[source]](https://github.com/dalerank/Akhenaten)
@@ -67,7 +89,11 @@ This is a list of different open-source video games and commercial video games o
 
 - **Julius** - An open source re-implementation of *[Caesar III](https://en.wikipedia.org/wiki/Caesar_III)*. [[source]](https://github.com/bvschaik/julius)
 
+- **LinCity-NG** - A city simulation game about managing construction, industry, infrastructure, and the economy. [[source]](https://github.com/lincity-ng/lincity-ng)
+
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade Javascript port of the open-source city simulator *[Micropolis](https://mvolution.itch.io/micropolis)*. [[source]](https://github.com/graememcc/micropolisJS)
+
+- **OpenSC2K** - A Rust and Godot reimplementation of *SimCity 2000*. It requires assets from the original game. [[source]](https://github.com/OpenSC2K/OpenSC2K)
 
 - **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building.
 
@@ -83,17 +109,27 @@ This is a list of different open-source video games and commercial video games o
 
 - **[AssaultCube](https://assault.cubers.net)** - A FREE, multiplayer, first-person shooter game. [[source]](https://github.com/assaultcube/AC) **Engine: [CUBE](http://cubeengine.com)** [[source]](https://github.com/bsegovia/cube)
 
+- **BZFlag** - A first-person multiplayer tank game with team capture the flag. [[source]](https://github.com/BZFlag-Dev/bzflag)
+
+- **CoroSolto** - A browser-based first-person shooter with bots and capture the flag. [[source]](https://github.com/corosolto/client)
+
 - **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube)
 
 - **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3)
 
 - **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot)
 
+- **Multiplayer-FPS** - A multiplayer first-person shooter built with Unity where players host or join rooms. [[source]](https://github.com/Armour/Multiplayer-FPS)
+
+- **Operation Ironhold** - A browser-based first-person shooter built in a single HTML file with Three.js. [[source]](https://github.com/StarKnightt/operation-ironhold)
+
 - **[Red Eclipse](https://www.redeclipse.net)** - An old-school arena shooter for the modern age. [[source]](https://github.com/redeclipse/base) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube)
 
 - **Surreal Engine** - [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament) Engine Reimplementation. [[source]](https://github.com/dpjudas/SurrealEngine)
 
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
+
+- **Unvanquished** - A team-based arena shooter that combines first-person combat with real-time base building. [[source]](https://github.com/Unvanquished/Unvanquished)
 
 - **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic)
 
@@ -169,6 +205,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Platformers
 
+- **Celeste 64** - A 3D platformer from the creators of *Celeste*. Code and assets have separate terms. [[source]](https://github.com/EXOK/Celeste64)
+
 - **[Commander Keen](https://en.wikipedia.org/wiki/Commander_Keen)**
 
   - **Commander-Genius** - An open-source interpreter for the
@@ -190,7 +228,11 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[Frogatto & Friends](https://frogatto.com)** - An action-adventure platformer game, starring a certain quixotic frog. [[source]](https://github.com/frogatto/frogatto) **Engine: Anura** [[source]](https://github.com/anura-engine/anura)
 
+- **Nothing** - A small platformer focused on jumping and navigating obstacles. [[source]](https://github.com/tsoding/nothing)
+
 - **[OpenGOAL](https://opengoal.dev)** - This project is to port [Jak & Daxter Series](https://en.wikipedia.org/wiki/Jak_and_Daxter) to PC. [[source]](https://github.com/water111/jak-project)
+
+- **Red Runner** - A side-scrolling platformer built with Unity. [[source]](https://github.com/BayatGames/RedRunner)
 
 - **Rigel Engine** - This project is a re-implementation of the game [Duke Nukem II](https://en.wikipedia.org/wiki/Duke_Nukem_II), originally released by Apogee Software in 1993 for MS-DOS. [[source]](https://github.com/lethal-guitar/RigelEngine)
 
@@ -198,11 +240,21 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **Super Mario 64** - A full decompilation of [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64). [[source]](https://github.com/n64decomp/sm64)
 
+- **SuperTux** - A 2D side-scrolling platformer starring Tux the penguin. [[source]](https://github.com/SuperTux/supertux)
+
+- **Tails Adventure Remake** - An independent remake of the Game Gear platform adventure, with item collection and backtracking. [[source]](https://github.com/mechakotik/tails-adventure)
+
 - **[VVVVVV](https://thelettervsixtim.es/)** - [[source]](https://github.com/TerryCavanagh/VVVVVV)
 
 ## Puzzle games
 
+- **2048** - A sliding-tile puzzle where players merge matching numbers to reach 2048. [[source]](https://github.com/gabrielecirulli/2048)
+
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
+
+- **Enigma** - A physics puzzle game where players guide a marble through obstacles and mechanisms. [[source]](https://github.com/enigma-game/enigma)
+
+- **Neverball** - A timed puzzle game where players tilt the floor to roll a ball through obstacles. [[source]](https://github.com/neverball/neverball)
 
 - **Portal64** - A demake (remake for an older platform) of [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) for the Nintendo 64. [[source]](https://github.com/mwpenny/portal64-still-alive)
 
@@ -212,7 +264,11 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[Dust Racing 2D](https://github.com/juzzlin/DustRacing2D)** - A traditional top-down car racing game including a level editor. [[source]](https://github.com/cflavio/yorg)
 
+- **JavaScript Racer** - An *OutRun*-inspired pseudo-3D browser racer. Music and placeholder assets have separate terms. [[source]](https://github.com/jakesgordon/javascript-racer)
+
 - **[ManiaDrive](http://maniadrive.raydium.org)** - A free clone of [TrackMania](https://en.wikipedia.org/wiki/TrackMania), the great game from [Nadéo](https://en.wikipedia.org/wiki/Nadeo) studio. [[source]](http://maniadrive.raydium.org/index.php?downloads=yes) **Engine: [Raydium](https://raydium.org)** [[source]](https://raydium.org/data.php)
+
+- **pmndrs Racing Game** - A 3D browser racing game built with React Three Fiber. [[source]](https://github.com/pmndrs/racing-game)
 
 - **[Rigs of Rods](https://www.rigsofrods.org)** -  An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [[source]](https://github.com/RigsOfRods/rigs-of-rods) **Engine: [OGRE](https://www.ogre3d.org)** [[source]](https://github.com/OGRECave) **UI: [Dear ImGui](https://www.dearimgui.com)** [[source]](https://github.com/ocornut/imgui)
 
@@ -229,6 +285,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 - **[Trigger Rally](https://trigger-rally.sourceforge.io)** - A fast-paced single-player racing game for Linux and Windows. [[source]](https://sourceforge.net/projects/trigger-rally)
 
 - **[VDrift](https://vdrift.net)** - A cross-platform, open source driving simulation made with drift racing in mind. [[source]](https://github.com/VDrift/vdrift)
+
+- **X-Moto** - A 2D motocross game where players overcome obstacles on physics-based courses. [[source]](https://github.com/xmoto/xmoto)
 
 - **[Yorg](https://ya2.itch.io/yorg)** - Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [[source]](https://github.com/cflavio/yorg) **Engine: [Panda3D](https://www.panda3d.org)** [[source]](https://github.com/panda3d/panda3d)
 
@@ -250,6 +308,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[OpenAge](https://openage.sft.mx)** - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). [[source]](https://github.com/SFTtech/openage)
 
+- **OpenFront.io** - A browser-based real-time strategy game about capturing territory, growing an economy, and forming alliances. [[source]](https://github.com/openfrontio/OpenFrontIO)
+
 - **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [[source]](https://github.com/OpenHV/OpenHV)
 
 - **[OpenRA](https://www.openra.net)** - [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer), [Dune 2000](https://en.wikipedia.org/wiki/Dune_2000) and [Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)
@@ -257,6 +317,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 - **Permafrost Engine** - An OpenGL 3.3 Real Time Strategy game engine written in C. [[source]](https://github.com/eduard-permyakov/permafrost-engine)
 
 - **Standard Of Iron** - A modern real-time strategy (RTS) game engine built with C++20, Qt 6, and OpenGL 3.3 Core. [[source]](https://github.com/djeada/Standard-of-Iron)
+
+- **Star Ruler 2** - A real-time space 4X game with ship design, expansion, and diplomacy. Art is licensed under CC BY-NC 2.0. [[source]](https://github.com/BlindMindStudios/StarRuler2-Source)
 
 - **[Warzone 2100](https://wz2100.net)** -  A free, open source, 3D real-time strategy game with a story-driven single-player campaign, online multi-player, offline skirmish, and more. [[source]](https://github.com/Warzone2100/warzone2100)
 
@@ -305,11 +367,15 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **OpenNefia** - Moddable engine reimplementation of the Japanese roguelike [Elona](https://en.wikipedia.org/wiki/Elona_(video_game)). [[source]](https://github.com/OpenNefia/OpenNefia)
 
+- **Pixel Dungeon** - A traditional roguelike with procedurally generated dungeons, equipment, and permadeath. [[source]](https://github.com/watabou/pixel-dungeon)
+
 - **[Shattered Pixel Dungeon](https://shatteredpixel.com)** - An open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. [[source]](https://github.com/00-Evan/shattered-pixel-dungeon)
 
 ## Role-Playing games
 
 - **[Ambermoon.net](https://pyrdacor.itch.io/ambermoon)** - A full C# rewrite of [Ambermoon](https://en.wikipedia.org/wiki/Ambermoon). [[source]](https://github.com/Pyrdacor/Ambermoon.net)
+
+- **Arx Libertatis** - A cross-platform port of the first-person RPG *Arx Fatalis*. It requires the original game data. [[source]](https://github.com/arx/ArxLibertatis)
 
 - **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [[source]](https://github.com/Interkarma/daggerfall-unity)
 
@@ -367,6 +433,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ### *Massively Multiplayer Online Role-Playing Games*
 
+- **Meridian 59** - A first-person fantasy MMORPG with open-source client and server code. [[source]](https://github.com/Meridian59/Meridian59)
+
 - **OpenKO** - An open source version of the old school [Knight Online](https://en.wikipedia.org/wiki/Knight_Online) MMORPG. [[source]](https://github.com/Open-KO/KnightOnline)
 
 - **OpenKore** - A custom client and intelligent automated assistant for [Ragnarok Online](https://en.wikipedia.org/wiki/Ragnarok_Online). [[source]](https://github.com/OpenKore/openkore)
@@ -375,19 +443,37 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **Minosoft** - An open source minecraft client, written from scratch in Kotlin (and java). [[source]](https://github.com/bixilon/minosoft) [[source]](https://gitlab.bixilon.de/bixilon/minosoft)
 
+- **Sandspiel** - A browser sandbox for painting and mixing particles such as sand, water, and plants. [[source]](https://github.com/MaxBittker/sandspiel)
+
+- **The Powder Toy** - A falling-sand sandbox that simulates heat, air pressure, materials, and circuits. [[source]](https://github.com/The-Powder-Toy/The-Powder-Toy)
+
+- **VoxeLibre** - A multiplayer voxel survival and building game for Luanti. [[source]](https://github.com/VoxeLibre/VoxeLibre)
+
 ## Shoot 'em up games
+
+- **AstroMenace** - A vertically scrolling 3D space shooter with ship upgrades and boss fights. [[source]](https://github.com/viewizard/astromenace)
+
+- **Dinosaur Exploder** - An arcade shoot 'em up built with JavaFX and FXGL. [[source]](https://github.com/jvondermarck/dinosaur-exploder)
 
 - **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [[source]](https://github.com/fragglet/sdl-sopwith)
 
+- **SHMUP** - An *Ikaruga*-inspired 3D space shooter built with OpenGL ES. [[source]](https://github.com/fabiensanglard/Shmup)
+
 - **[Taisei Project](https://taisei-project.org)** - A free and open-source fangame of the [Tōhō series](https://en.wikipedia.org/wiki/Touhou_Project), written in C using SDL3 and OpenGL. [[source]](https://github.com/taisei-project/taisei)
 
+- **Theta Wave (Amethyst version)** - A space shooter built with Amethyst where players defend an objective and collect upgrades. [[source]](https://github.com/thetawavegame/thetawave-legacy)
+
 ## Sport games
+
+- **Google Research Football** - A football simulation that supports human players and reinforcement learning agents. [[source]](https://github.com/google-research/football)
 
 - **[Open Golf](https://mgerdes.github.io/minigolf.html)** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
 
 - **[Pooltool](https://pooltool.readthedocs.io)** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)
 
 ## Third-Person games
+
+- **Chickensoft Game Demo** - A playable third-person 3D game that demonstrates Godot architecture and save and load features. [[source]](https://github.com/chickensoft-games/GameDemo)
 
 - **[Command & Conquer Renegade](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Renegade)** - [[source]](https://github.com/electronicarts/CnC_Renegade)
 
@@ -405,11 +491,17 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider) adventures. Core Design era (1 - 5). [[source]](https://github.com/TombEngine/TombEngine)
 
+- **Wizard Masters** - A third-person multiplayer arena game where players fight with elemental spells. [[source]](https://github.com/ertugrulcetin/wizard-masters)
+
 ## Tower Defence games
 
 - **[Server Survival](https://pshenok.github.io/server-survival)** - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. [[source]](https://github.com/pshenok/server-survival)
 
+- **Tower Defense (Casmo)** - A 3D browser tower defense game built with Three.js. [[source]](https://github.com/Casmo/tower-defense)
+
 ## Turn-Based strategies
+
+- **1oom** - A reimplementation of the original *Master of Orion*. It requires the original game data. [[source]](https://github.com/1oom-fork/1oom)
 
 - [Ancient Beast](https://ancientbeast.com) - A turn based strategy indie game project played online against other people. [[source]](https://github.com/FreezingMoon/AncientBeast)
 
@@ -427,15 +519,23 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Hnefatafl](https://hnefatafl.org/)** - The game of Copenhagen Hnefatafl. Sort of like chess. [[source]](https://github.com/dcampbell24/hnefatafl)
 
+- **OpenApoc** - An SDL2 reimplementation of *X-COM: Apocalypse*. It requires the original game data. [[source]](https://github.com/OpenApoc/OpenApoc)
+
 - **[OpenPanzer](https://www.linuxconsulting.ro/openpanzer)** - Javascript/HTML5 rewrite of [Panzer General II](https://en.wikipedia.org/wiki/Panzer_General_II) game. [[source]](https://github.com/nicupavel/openpanzer)
 
 - **[OpenXcom](https://openxcom.org/)** - An open-source clone of the popular [UFO: Enemy Unknown](https://en.wikipedia.org/wiki/UFO:_Enemy_Unknown) and [X-COM: Terror From the Deep](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep) video games by [MicroPros](https://en.wikipedia.org/wiki/MicroProse). [[source]](https://github.com/OpenXcom/OpenXcom)
 
+- **Remnants of the Precursors** - A single-player, turn-based space 4X game inspired by *Master of Orion*. Art has separate terms. [[source]](https://github.com/RayFowler/rotp-public)
+
 - **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [[source]](https://github.com/wesnoth/wesnoth)
+
+- **TripleA** - A moddable, turn-based strategy game inspired by *Axis & Allies*. [[source]](https://github.com/triplea-game/triplea)
 
 - **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of [Civilization V](https://en.wikipedia.org/wiki/Civilization_V). [[source]](https://github.com/yairm210/Unciv)
 
 - **[VCMI Project](https://vcmi.eu)** - Open-source engine for [Heroes of Might and Magic III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III). [[source]](https://github.com/vcmi/vcmi)
+
+- **Zone of Control** - A hex-based tactics game with infantry and armored units. [[source]](https://github.com/ozkriff/zoc)
 
 ## Other lists
 

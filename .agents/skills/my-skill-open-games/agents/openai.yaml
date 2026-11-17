@@ -1,0 +1,4 @@
+interface:
+  display_name: "my-skill-open-games"
+  short_description: "查询完整开源游戏目录，逐款核对源码、语言、引擎、框架和许可证"
+  default_prompt: "用 $my-skill-open-games 查询开源游戏目录，列出感兴趣的分类或游戏及其技术栈。"
